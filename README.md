@@ -1,4 +1,5 @@
-# VAR_Future
+# Forecasting U.S. Dollar Future prices using a VAR model
+
 Implement the specification and estimation of a Vector autoregression (VAR) model to forecast U.S. Dollar Future prices using trading book information from skrach. Results are compared with *statsmodels*. The future contract is traded at the Amsterdam stock exchange. This is an extended version of an assignment done as part of the Master in Quantitative Finance at VU Amsterdam.
 
 The implementation contains:
